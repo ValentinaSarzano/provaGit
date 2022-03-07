@@ -10,7 +10,7 @@
    <center>
       <HBox prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
          <children>
-              <Button fx:id="button" onAction="#handleButtonAction" text="Premi qui!" />
+              <Button fx:id="button" onAction="#handleButtonAction" text="Premi qui, dai!" />
               <Label fx:id="label" minHeight="16" minWidth="69">
                <HBox.margin>
                   <Insets left="10.0" />
